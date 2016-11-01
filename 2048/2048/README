@@ -1,0 +1,34 @@
+Program Description:
+This program uses three different file. These file are Gui2048.java,
+Board.java, and Direction.java. The file Gui2048.java creates a visual
+interface that allows the user the play the game 2048. Board.java is 
+used to guide the behavior of the interface from Gui2048.java. Lastly,
+Direction.java allows the game to move in the different directions that
+the user chooses.
+
+Short Response:
+1. For all instances:
+       :%s/fun/amazing/g
+   First intance of each line:
+       :s%/fun/amazing/
+
+2. mkdir -p fooDir/barDir
+3. rm file.java
+   When you use the wildcard "rm" it removes the file
+   called immediately after it
+4. :tab ball
+5. The static keyword means that you can call that method
+   without using an object to call it
+
+   Example:
+   static void doSomething() { }
+   
+   // in your main method
+   doSomething();
+
+6. First you should create seperate java files for the various shapes that
+   you want to write. For example, just create files for circle and square.
+   Then in each shape file you should create a constructor for that takes 
+   color parameter. Using you constructor you should create that shape, and
+   with the color parameter, set the color of your shape within the
+   constructor.

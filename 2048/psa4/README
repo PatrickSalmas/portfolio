@@ -1,0 +1,10 @@
+Program Description:
+The program is designed to create and play the game 2048. Board.java allows the creation of a game board, and allows the user to save their game/board. Board.java also allows the grid to be rotated clockwise or counter clockwise. Rotating the board isn't a crucial funtion of the game. GameManager.java allows the user to play the game, and is given the option of quitting saving their game.
+
+Short Response:
+1. cp /directory1/directory2/directory3/nameOfFile
+2. man cat pulls up a manuel of cat commands
+3. the line number + 'G'
+4. gg brings you to the top of the file, and G brings you to the bottom of the file
+5. Whatever the name of the constructor/class is + public, private, etc.
+6. A static variable is a varriable that belongs to that particular class 

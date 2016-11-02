@@ -1,0 +1,7 @@
+Program Description:
+This program uses three different file. These file are Gui2048.java,
+Board.java, and Direction.java. The file Gui2048.java creates a visual
+interface that allows the user the play the game 2048. Board.java is 
+used to guide the behavior of the interface from Gui2048.java. Lastly,
+Direction.java allows the game to move in the different directions that
+the user chooses.
